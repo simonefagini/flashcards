@@ -28,7 +28,7 @@ body {
   display: grid;
   grid-template-rows: 3.5fr 1fr;
   place-items: center;
-  position: absolute;
+  position: relative;
   gap: 10%;
 }
 
@@ -145,8 +145,21 @@ body {
   font-size: 4rem;
 }
 
+.article,
+.word {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+}
+
 @media (min-aspect-ratio: 16/9) and (min-width: 1200px) {
   .container {
     scale: 1.1;
+  }
+}
+
+@-moz-document url-prefix() {
+  .article {
+    margin-bottom: 1.5rem;
   }
 }
