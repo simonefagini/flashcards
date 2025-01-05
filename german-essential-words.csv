@@ -1,0 +1,502 @@
+index, word, article, german, probability
+0, yes, -, ja, 0.99
+1, no, -, nein, 0.99
+2, please, -, bitte, 0.99
+3, thank you, -, danke, 0.99
+4, hello, -, hallo, 0.98
+5, goodbye, -, tschüss, 0.98
+6, to be, -, sein, 0.98
+7, I, -, ich, 0.98
+8, you, -, du, 0.98
+9, to have, -, haben, 0.98
+10, what, -, was, 0.98
+11, where, -, wo, 0.98
+12, when, -, wann, 0.98
+13, how, -, wie, 0.98
+14, to can, -, können, 0.97
+15, to want, -, wollen, 0.97
+16, day, der, Tag, 0.97
+17, time, die, Zeit, 0.97
+18, today, -, heute, 0.97
+19, now, -, jetzt, 0.97
+20, here, -, hier, 0.96
+21, there, -, dort, 0.96
+22, to come, -, kommen, 0.96
+23, to go, -, gehen, 0.96
+24, man, der, Mann, 0.96
+25, woman, die, Frau, 0.96
+26, child, das, Kind, 0.96
+27, house, das, Haus, 0.96
+28, food, das, Essen, 0.96
+29, water, das, Wasser, 0.95
+30, work, die, Arbeit, 0.95
+31, to make, -, machen, 0.95
+32, to need, -, brauchen, 0.95
+33, to love, -, lieben, 0.95
+34, big, -, groß, 0.95
+35, small, -, klein, 0.95
+36, much, -, viel, 0.95
+37, little, -, wenig, 0.95
+38, money, das, Geld, 0.94
+39, to buy, -, kaufen, 0.94
+40, to sell, -, verkaufen, 0.94
+41, car, das, Auto, 0.94
+42, street, die, Straße, 0.94
+43, city, die, Stadt, 0.94
+44, home, -, zuhause, 0.94
+45, year, das, Jahr, 0.94
+46, month, der, Monat, 0.94
+47, week, die, Woche, 0.94
+48, morning, der, Morgen, 0.94
+49, evening, der, Abend, 0.94
+50, night, die, Nacht, 0.93
+51, friend, der, Freund, 0.93
+52, family, die, Familie, 0.93
+53, mother, die, Mutter, 0.93
+54, father, der, Vater, 0.93
+55, brother, der, Bruder, 0.93
+56, sister, die, Schwester, 0.93
+57, hand, die, Hand, 0.93
+58, head, der, Kopf, 0.93
+59, eye, das, Auge, 0.93
+60, nose, die, Nase, 0.92
+61, mouth, der, Mund, 0.92
+62, ear, das, Ohr, 0.92
+63, hair, das, Haar, 0.92
+64, heart, das, Herz, 0.92
+65, book, das, Buch, 0.92
+66, school, die, Schule, 0.92
+67, to work, -, arbeiten, 0.92
+68, to learn, -, lernen, 0.92
+69, to speak, -, sprechen, 0.92
+70, to read, -, lesen, 0.92
+71, to write, -, schreiben, 0.92
+72, to understand, -, verstehen, 0.91
+73, to know, -, wissen, 0.91
+74, to think, -, denken, 0.91
+75, to feel, -, fühlen, 0.91
+76, to see, -, sehen, 0.91
+77, to hear, -, hören, 0.91
+78, to eat, -, essen, 0.91
+79, to drink, -, trinken, 0.91
+80, to sleep, -, schlafen, 0.91
+81, to live, -, leben, 0.91
+82, new, -, neu, 0.90
+83, old, -, alt, 0.90
+84, young, -, jung, 0.90
+85, beautiful, -, schön, 0.90
+86, ugly, -, hässlich, 0.90
+87, good, -, gut, 0.90
+88, bad, -, schlecht, 0.90
+89, happy, -, glücklich, 0.90
+90, sad, -, traurig, 0.90
+91, angry, -, wütend, 0.90
+92, tired, -, müde, 0.90
+93, hungry, -, hungrig, 0.90
+94, thirsty, -, durstig, 0.90
+95, hot, -, heiß, 0.89
+96, cold, -, kalt, 0.89
+97, easy, -, einfach, 0.89
+98, difficult, -, schwierig, 0.89
+99, right, -, richtig, 0.89
+100, wrong, -, falsch, 0.89
+101, early, -, früh, 0.89
+102, late, -, spät, 0.89
+103, fast, -, schnell, 0.89
+104, slow, -, langsam, 0.89
+105, high, -, hoch, 0.89
+106, low, -, niedrig, 0.89
+107, to open, -, öffnen, 0.88
+108, to close, -, schließen, 0.88
+109, door, die, Tür, 0.88
+110, window, das, Fenster, 0.88
+111, wall, die, Wand, 0.88
+112, floor, der, Boden, 0.88
+113, ceiling, die, Decke, 0.88
+114, room, das, Zimmer, 0.88
+115, kitchen, die, Küche, 0.88
+116, bathroom, das, Badezimmer, 0.88
+117, bedroom, das, Schlafzimmer, 0.88
+118, table, der, Tisch, 0.88
+119, chair, der, Stuhl, 0.88
+120, bed, das, Bett, 0.88
+121, to sit, -, sitzen, 0.87
+122, to stand, -, stehen, 0.87
+123, to lie, -, liegen, 0.87
+124, to walk, -, laufen, 0.87
+125, to run, -, rennen, 0.87
+126, bread, das, Brot, 0.87
+127, milk, die, Milch, 0.87
+128, coffee, der, Kaffee, 0.87
+129, tea, der, Tee, 0.87
+130, juice, der, Saft, 0.87
+131, meat, das, Fleisch, 0.87
+132, fish, der, Fisch, 0.87
+133, vegetable, das, Gemüse, 0.87
+134, fruit, das, Obst, 0.87
+135, apple, der, Apfel, 0.87
+136, banana, die, Banane, 0.87
+137, dog, der, Hund, 0.87
+138, cat, die, Katze, 0.87
+139, animal, das, Tier, 0.87
+140, bird, der, Vogel, 0.87
+141, tree, der, Baum, 0.86
+142, flower, die, Blume, 0.86
+143, grass, das, Gras, 0.86
+144, sun, die, Sonne, 0.86
+145, moon, der, Mond, 0.86
+146, star, der, Stern, 0.86
+147, sky, der, Himmel, 0.86
+148, weather, das, Wetter, 0.86
+149, rain, der, Regen, 0.86
+150, snow, der, Schnee, 0.86
+151, wind, der, Wind, 0.86
+152, to rain, -, regnen, 0.86
+153, to snow, -, schneien, 0.86
+154, cloud, die, Wolke, 0.86
+155, season, die, Jahreszeit, 0.86
+156, spring, der, Frühling, 0.86
+157, summer, der, Sommer, 0.86
+158, autumn, der, Herbst, 0.86
+159, winter, der, Winter, 0.86
+160, color, die, Farbe, 0.85
+161, red, -, rot, 0.85
+162, blue, -, blau, 0.85
+163, green, -, grün, 0.85
+164, yellow, -, gelb, 0.85
+165, black, -, schwarz, 0.85
+166, white, -, weiß, 0.85
+167, number, die, Nummer, 0.85
+168, one, -, eins, 0.85
+169, two, -, zwei, 0.85
+170, three, -, drei, 0.85
+171, four, -, vier, 0.85
+172, five, -, fünf, 0.85
+173, six, -, sechs, 0.85
+174, seven, -, sieben, 0.85
+175, eight, -, acht, 0.85
+176, nine, -, neun, 0.85
+177, ten, -, zehn, 0.85
+178, hundred, -, hundert, 0.85
+179, thousand, -, tausend, 0.85
+180, first, -, erst, 0.85
+181, second, -, zweit, 0.85
+182, last, -, letzt, 0.85
+183, phone, das, Telefon, 0.84
+184, computer, der, Computer, 0.84
+185, internet, das, Internet, 0.84
+186, email, die, Email, 0.84
+187, to call, -, anrufen, 0.84
+188, to send, -, senden, 0.84
+189, to receive, -, empfangen, 0.84
+190, message, die, Nachricht, 0.84
+191, letter, der, Brief, 0.84
+192, newspaper, die, Zeitung, 0.84
+193, magazine, die, Zeitschrift, 0.84
+194, movie, der, Film, 0.84
+195, television, das, Fernsehen, 0.84
+196, radio, das, Radio, 0.84
+197, music, die, Musik, 0.84
+198, song, das, Lied, 0.84
+199, to play, -, spielen, 0.84
+200, to sing, -, singen, 0.84
+201, to dance, -, tanzen, 0.84
+202, to watch, -, schauen, 0.84
+203, game, das, Spiel, 0.84
+204, sport, der, Sport, 0.84
+205, football, der, Fußball, 0.84
+206, ball, der, Ball, 0.84
+207, team, das, Team, 0.84
+208, to win, -, gewinnen, 0.84
+209, to lose, -, verlieren, 0.84
+210, clothes, die, Kleidung, 0.83
+211, shirt, das, Hemd, 0.83
+212, pants, die, Hose, 0.83
+213, shoes, die, Schuhe, 0.83
+214, hat, der, Hut, 0.83
+215, jacket, die, Jacke, 0.83
+216, to wear, -, tragen, 0.83
+217, to change, -, wechseln, 0.83
+218, store, der, Laden, 0.83
+219, supermarket, der, Supermarkt, 0.83
+220, restaurant, das, Restaurant, 0.83
+221, cafe, das, Café, 0.83
+222, bank, die, Bank, 0.83
+223, hospital, das, Krankenhaus, 0.83
+224, doctor, der, Arzt, 0.83
+225, nurse, die, Krankenschwester, 0.83
+226, sick, -, krank, 0.83
+227, pain, der, Schmerz, 0.83
+228, medicine, die, Medizin, 0.83
+229, health, die, Gesundheit, 0.83
+230, to help, -, helfen, 0.82
+231, to find, -, finden, 0.82
+232, to look for, -, suchen, 0.82
+233, to ask, -, fragen, 0.82
+234, to answer, -, antworten, 0.82
+235, question, die, Frage, 0.82
+236, answer, die, Antwort, 0.82
+237, to meet, -, treffen, 0.82
+238, meeting, das, Treffen, 0.82
+239, appointment, der, Termin, 0.82
+240, job, der, Beruf, 0.82
+241, office, das, Büro, 0.82
+242, company, die, Firma, 0.82
+243, boss, der, Chef, 0.82
+244, colleague, der, Kollege, 0.82
+245, client, der, Kunde, 0.82
+246, to pay, -, bezahlen, 0.82
+247, price, der, Preis, 0.82
+248, expensive, -, teuer, 0.82
+249, cheap, -, billig, 0.82
+250, free, -, kostenlos, 0.82
+251, busy, -, beschäftigt, 0.81
+252, ready, -, fertig, 0.81
+253, to start, -, anfangen, 0.81
+254, to finish, -, beenden, 0.81
+255, to wait, -, warten, 0.81
+256, to hope, -, hoffen, 0.81
+257, hope, die, Hoffnung, 0.81
+258, to believe, -, glauben, 0.81
+259, belief, der, Glaube, 0.81
+260, to remember, -, erinnern, 0.81
+261, memory, die, Erinnerung, 0.81
+262, to forget, -, vergessen, 0.81
+263, to try, -, versuchen, 0.81
+264, attempt, der, Versuch, 0.81
+265, to succeed, -, gelingen, 0.81
+266, success, der, Erfolg, 0.81
+267, to fail, -, scheitern, 0.81
+268, failure, das, Scheitern, 0.81
+269, problem, das, Problem, 0.81
+270, solution, die, Lösung, 0.81
+271, to solve, -, lösen, 0.81
+272, idea, die, Idee, 0.80
+273, thought, der, Gedanke, 0.80
+274, to decide, -, entscheiden, 0.80
+275, decision, die, Entscheidung, 0.80
+276, to choose, -, wählen, 0.80
+277, choice, die, Wahl, 0.80
+278, different, -, anders, 0.80
+279, same, -, gleich, 0.80
+280, similar, -, ähnlich, 0.80
+281, to change, -, ändern, 0.80
+282, change, die, Änderung, 0.80
+283, to grow, -, wachsen, 0.80
+284, to become, -, werden, 0.80
+285, to remain, -, bleiben, 0.80
+286, to leave, -, verlassen, 0.80
+287, to arrive, -, ankommen, 0.80
+288, arrival, die, Ankunft, 0.80
+289, departure, die, Abreise, 0.80
+290, journey, die, Reise, 0.80
+291, vacation, der, Urlaub, 0.80
+292, holiday, der, Feiertag, 0.80
+293, birthday, der, Geburtstag, 0.80
+294, party, die, Party, 0.79
+295, guest, der, Gast, 0.79
+296, gift, das, Geschenk, 0.79
+297, to celebrate, -, feiern, 0.79
+298, celebration, die, Feier, 0.79
+299, wedding, die, Hochzeit, 0.79
+300, marriage, die, Ehe, 0.79
+301, to marry, -, heiraten, 0.79
+302, husband, der, Ehemann, 0.79
+303, wife, die, Ehefrau, 0.79
+304, parent, die, Eltern, 0.79
+305, grandparent, die, Großeltern, 0.79
+306, grandfather, der, Großvater, 0.79
+307, grandmother, die, Großmutter, 0.79
+308, uncle, der, Onkel, 0.79
+309, aunt, die, Tante, 0.79
+310, cousin, der/die, Cousin/Cousine, 0.79
+311, neighbor, der, Nachbar, 0.79
+312, stranger, der, Fremde, 0.79
+313, people, die, Leute, 0.78
+314, community, die, Gemeinschaft, 0.78
+315, society, die, Gesellschaft, 0.78
+316, country, das, Land, 0.78
+317, nation, die, Nation, 0.78
+318, language, die, Sprache, 0.78
+319, culture, die, Kultur, 0.78
+320, history, die, Geschichte, 0.78
+321, future, die, Zukunft, 0.78
+322, past, die, Vergangenheit, 0.78
+323, present, die, Gegenwart, 0.78
+324, war, der, Krieg, 0.78
+325, peace, der, Frieden, 0.78
+326, freedom, die, Freiheit, 0.78
+327, right, das, Recht, 0.78
+328, law, das, Gesetz, 0.78
+329, rule, die, Regel, 0.78
+330, to allow, -, erlauben, 0.77
+331, to forbid, -, verbieten, 0.77
+332, to promise, -, versprechen, 0.77
+333, promise, das, Versprechen, 0.77
+334, truth, die, Wahrheit, 0.77
+335, lie, die, Lüge, 0.77
+336, to lie, -, lügen, 0.77
+337, mistake, der, Fehler, 0.77
+338, to apologize, -, entschuldigen, 0.77
+339, sorry, -, Entschuldigung, 0.77
+340, please, -, bitte, 0.77
+341, to thank, -, danken, 0.77
+342, to welcome, -, willkommen heißen, 0.77
+343, welcome, -, willkommen, 0.77
+344, goodbye, -, auf Wiedersehen, 0.77
+345, luck, das, Glück, 0.76
+346, chance, die, Chance, 0.76
+347, opportunity, die, Gelegenheit, 0.76
+348, risk, das, Risiko, 0.76
+349, danger, die, Gefahr, 0.76
+350, safe, -, sicher, 0.76
+351, dangerous, -, gefährlich, 0.76
+352, emergency, der, Notfall, 0.76
+353, accident, der, Unfall, 0.76
+354, fire, das, Feuer, 0.76
+355, police, die, Polizei, 0.76
+356, officer, der, Beamte, 0.76
+357, to protect, -, schützen, 0.76
+358, protection, der, Schutz, 0.76
+359, to save, -, retten, 0.76
+360, to survive, -, überleben, 0.76
+361, life, das, Leben, 0.75
+362, death, der, Tod, 0.75
+363, to die, -, sterben, 0.75
+364, to kill, -, töten, 0.75
+365, to fight, -, kämpfen, 0.75
+366, fight, der, Kampf, 0.75
+367, strength, die, Stärke, 0.75
+368, weakness, die, Schwäche, 0.75
+369, power, die, Macht, 0.75
+370, energy, die, Energie, 0.75
+371, tired, -, müde, 0.75
+372, awake, -, wach, 0.75
+373, asleep, -, schlafend, 0.75
+374, dream, der, Traum, 0.75
+375, to dream, -, träumen, 0.75
+376, nightmare, der, Albtraum, 0.75
+377, fear, die, Angst, 0.75
+378, to fear, -, fürchten, 0.75
+379, brave, -, mutig, 0.75
+380, courage, der, Mut, 0.75
+381, to dare, -, wagen, 0.74
+382, proud, -, stolz, 0.74
+383, pride, der, Stolz, 0.74
+384, shame, die, Scham, 0.74
+385, ashamed, -, beschämt, 0.74
+386, guilty, -, schuldig, 0.74
+387, innocent, -, unschuldig, 0.74
+388, fair, -, fair, 0.74
+389, unfair, -, unfair, 0.74
+390, honest, -, ehrlich, 0.74
+391, dishonest, -, unehrlich, 0.74
+392, loyal, -, treu, 0.74
+393, loyalty, die, Treue, 0.74
+394, trust, das, Vertrauen, 0.74
+395, to trust, -, vertrauen, 0.74
+396, to betray, -, verraten, 0.74
+397, betrayal, der, Verrat, 0.74
+398, friend, der, Freund, 0.73
+399, enemy, der, Feind, 0.73
+400, relationship, die, Beziehung, 0.73
+401, single, -, ledig, 0.73
+402, alone, -, allein, 0.73
+403, together, -, zusammen, 0.73
+404, group, die, Gruppe, 0.73
+405, team, das, Team, 0.73
+406, member, das, Mitglied, 0.73
+407, leader, der, Führer, 0.73
+408, to lead, -, führen, 0.73
+409, to follow, -, folgen, 0.73
+410, example, das, Beispiel, 0.73
+411, model, das, Modell, 0.73
+412, system, das, System, 0.73
+413, structure, die, Struktur, 0.73
+414, form, die, Form, 0.72
+415, size, die, Größe, 0.72
+416, shape, die, Form, 0.72
+417, space, der, Raum, 0.72
+418, place, der, Ort, 0.72
+419, position, die, Position, 0.72
+420, direction, die, Richtung, 0.72
+421, distance, die, Entfernung, 0.72
+422, speed, die, Geschwindigkeit, 0.72
+423, movement, die, Bewegung, 0.72
+424, to move, -, bewegen, 0.72
+425, to stop, -, stoppen, 0.72
+426, to continue, -, fortfahren, 0.72
+427, beginning, der, Anfang, 0.72
+428, middle, die, Mitte, 0.72
+429, end, das, Ende, 0.72
+430, part, der, Teil, 0.71
+431, whole, das, Ganze, 0.71
+432, half, die, Hälfte, 0.71
+433, piece, das, Stück, 0.71
+434, section, der, Abschnitt, 0.71
+435, line, die, Linie, 0.71
+436, circle, der, Kreis, 0.71
+437, square, das, Quadrat, 0.71
+438, triangle, das, Dreieck, 0.71
+439, point, der, Punkt, 0.71
+440, surface, die, Oberfläche, 0.71
+441, side, die, Seite, 0.71
+442, edge, die, Kante, 0.71
+443, corner, die, Ecke, 0.71
+444, material, das, Material, 0.70
+445, metal, das, Metall, 0.70
+446, wood, das, Holz, 0.70
+447, plastic, der, Kunststoff, 0.70
+448, glass, das, Glas, 0.70
+449, paper, das, Papier, 0.70
+450, stone, der, Stein, 0.70
+451, quality, die, Qualität, 0.70
+452, condition, der, Zustand, 0.70
+453, situation, die, Situation, 0.70
+454, circumstance, der, Umstand, 0.70
+455, reason, der, Grund, 0.70
+456, cause, die, Ursache, 0.70
+457, effect, die, Wirkung, 0.70
+458, result, das, Ergebnis, 0.70
+459, consequence, die, Folge, 0.70
+460, purpose, der, Zweck, 0.70
+461, goal, das, Ziel, 0.69
+462, plan, der, Plan, 0.69
+463, method, die, Methode, 0.69
+464, way, der, Weg, 0.69
+465, process, der, Prozess, 0.69
+466, program, das, Program
+467, subject, das, Fach, 0.69
+468, topic, das, Thema, 0.69
+469, information, die, Information, 0.69
+470, data, die, Daten, 0.69
+471, fact, die, Tatsache, 0.69
+472, detail, das, Detail, 0.69
+473, to develop, -, entwickeln, 0.68
+474, development, die, Entwicklung, 0.68
+475, research, die, Forschung, 0.68
+476, science, die, Wissenschaft, 0.68
+477, technology, die, Technologie, 0.68
+478, machine, die, Maschine, 0.68
+479, tool, das, Werkzeug, 0.68
+480, equipment, die, Ausrüstung, 0.68
+481, device, das, Gerät, 0.68
+482, battery, die, Batterie, 0.68
+483, wire, der, Draht, 0.68
+484, screen, der, Bildschirm, 0.68
+485, button, der, Knopf, 0.68
+486, to press, -, drücken, 0.68
+487, to pull, -, ziehen, 0.67
+488, to push, -, schieben, 0.67
+489, to turn on, -, einschalten, 0.67
+490, to turn off, -, ausschalten, 0.67
+491, to break, -, brechen, 0.67
+492, to fix, -, reparieren, 0.67
+493, to build, -, bauen, 0.67
+494, to create, -, erstellen, 0.67
+495, to design, -, entwerfen, 0.67
+496, to test, -, testen, 0.67
+497, to check, -, prüfen, 0.67
+498, to measure, -, messen, 0.67
+499, to calculate, -, rechnen, 0.67
+500, to analyze, -, analysieren, 0.67
