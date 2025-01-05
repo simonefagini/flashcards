@@ -163,3 +163,17 @@ body {
     margin-bottom: 1.5rem;
   }
 }
+@media (max-width: 768px) {
+  .container {
+    transform: scale(0.8);
+  }
+  .translation {
+    width: 200%;
+    transform: scale(0.6);
+  }
+  .card::after {
+    font-size: clamp(2rem, 2.5rem, 2rem);
+    letter-spacing: 0.05em;  
+    margin-bottom: 1rem;
+  }
+}
