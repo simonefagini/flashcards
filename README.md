@@ -3,12 +3,22 @@ A quick web app I built to boost my English-German vocabulary.
 
 ## Customization
 
-Fork the project and include a `database.csv` file containing a dictionary to train the language you want to learn, paired with translations from your preferred main language.
+Fork the project to train the language you want to learn, paired with translations from your preferred main language.
+
 
 ```bash
 git clone https://github.com/simonefagini/flashcards.git
 
 ```
+
+Add your own database in the [dictionaries/german-essential-words.csv](dictionaries/) folder and update the link in the [web/newWord.js](web/newWord.js) file:
+
+```javascript
+fetch(
+    "https://raw.githubusercontent.com/simonefagini/flashcards/refs/heads/main/dictionaries/german-essential-words.csv"
+  )
+```
+
 
 ## Upcoming Features
 
