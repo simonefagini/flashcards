@@ -1,5 +1,5 @@
 # flashcards
-A quick web app I built to boost my English-German vocabulary.
+A quick [web app](https://simonefagini.github.io/flashcards/) I built to boost my English-German vocabulary.
 
 ## Customization
 
