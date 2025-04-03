@@ -1,5 +1,8 @@
-1.0 Rule of thumb:
-
+1.0
 If there's no preposition, "dich" is likely correct (direct action on "you").
-
 If a dative preposition is involved (like mit (with), von (from), zu (to)), then you use "dir."
+
+2.0
+Normal sentence (main clause) → Verb in 2nd position
+Subordinate clause (with "weil", "dass", etc.) → Verb at the end
+Yes/No questions & commands → Verb first
