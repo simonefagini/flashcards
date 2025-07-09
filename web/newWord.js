@@ -3,7 +3,7 @@ let words = [];
 // load from CSV
 function loadWords(callback) {
   fetch(
-    "https://raw.githubusercontent.com/simonefagini/flashcards/refs/heads/main/dictionaries/german-essential-words.csv"
+    "https://raw.githubusercontent.com/simonefagini/flashcards/refs/heads/main/dictionaries/custom_vocabulary.csv"
   )
     .then((response) => response.text())
     .then((data) => {
