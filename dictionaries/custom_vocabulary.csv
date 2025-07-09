@@ -1,0 +1,161 @@
+index,word,article,german
+0,ähnlich, ,similar
+1,bedarf, ,requirement
+2,fraglich, ,questionable
+3,gering, ,low
+4,hoch, ,high
+5,Erdbeben, ,earthquake
+6,fast, ,almost
+7,vorschlagen, ,suggest/propose
+8,einfach, ,easy
+9,leider, ,unfortunately
+10,gerade, ,straight/just
+11,unterlagen, ,documents
+12,unterlage, ,base/document
+13,erforderliche, ,required
+14,betrag, ,amount
+15,scheint es, ,it seems
+16,unterschied, ,difference
+17,lösung, ,solution
+18,hilfreich, ,useful
+19,genug, ,enough
+20,flugzeug, ,airplane
+21,satz, ,sentence
+22,übersetzung, ,translation
+23,bedeutung, ,meaning
+24,fragezeichen, ,question mark
+25,fühlen, ,to feel
+26,wissen, ,to know (a fact)
+27,kennen, ,to know (be familiar with)
+28,verstehen, ,to understand
+29,erinnern, ,to remember
+30,bleiben, ,to stay
+31,stehen, ,to stand
+32,liegen, ,to lie (down)
+33,zeigen, ,to show
+34,brauchen, ,to need
+35,kaufen, ,to buy
+36,verkaufen, ,to sell
+37,sterben, ,to die
+38,lieben, ,to love
+39,hoffen, ,to hope
+40,freund, ,friend
+41,feind, ,enemy
+42,familie, ,family
+43,kind, ,child
+44,eltern, ,parents
+45,vater, ,father
+46,mutter, ,mother
+47,bruder, ,brother
+48,schwester, ,sister
+49,ehefrau, ,wife
+50,ehemann, ,husband
+51,mensch, ,human
+52,leben, ,life
+53,tod, ,death
+54,tag, ,day
+55,nacht, ,night
+56,morgen, ,morning
+57,abend, ,evening
+58,woche, ,week
+59,monat, ,month
+60,jahr, ,year
+61,stunde, ,hour
+62,minute, ,minute
+63,sekunde, ,second
+64,jetzt, ,now
+65,heute, ,today
+66,gestern, ,yesterday
+67,morgen, ,tomorrow
+68,zukunft, ,future
+69,vergangenheit, ,past
+70,arbeit, ,work
+71,urlaub, ,holiday/vacation
+72,schule, ,school
+73,prüfung, ,exam/test
+74,erfolg, ,success
+75,fehler, ,error/mistake
+76,problem, ,problem
+77,antwort, ,answer
+78,frage, ,question
+79,hilfe, ,help
+80,glück, ,happiness/luck
+81,traurigkeit, ,sadness
+82,angst, ,fear
+83,wut, ,anger
+84,freude, ,joy
+85,liebe, ,love
+86,hass, ,hate
+87,gesundheit, ,health
+88,krankheit, ,illness
+89,arzt, ,doctor
+90,krankenhaus, ,hospital
+91,medikament, ,medicine
+92,unfall, ,accident
+93,versicherung, ,insurance
+94,termin, ,appointment
+95,nummer, ,number
+96,name, ,name
+97,adresse, ,address
+98,telefon, ,phone
+99,email, ,email
+100,beispiel, ,example
+101,zeit, ,time
+102,ort, ,place
+103,person, ,person
+104,wasser, ,water
+105,luft, ,air
+106,feuer, ,fire
+107,erde, ,earth/soil
+108,haus, ,house
+109,wohnung, ,apartment
+110,stadt, ,city
+111,dorf, ,village
+112,land, ,country/land
+113,weg, ,path/way
+114,straße, ,street
+115,auto, ,car
+116,fahrrad, ,bike
+117,zug, ,train
+118,universität, ,university
+119,lehrer, ,teacher
+120,schüler, ,student (school)
+121,student, ,student (university)
+122,buch, ,book
+123,seite, ,page
+124,text, ,text
+125,wort, ,word
+126,sprache, ,language
+127,antworten, ,to answer
+128,fragen, ,to ask
+129,lernen, ,to learn
+130,lehren, ,to teach
+131,lesen, ,to read
+132,schreiben, ,to write
+133,sprechen, ,to speak
+134,hören, ,to hear
+135,sehen, ,to see
+136,denken, ,to think
+137,glauben, ,to believe
+138,vergessen, ,to forget
+139,beginnen, ,to begin
+140,enden, ,to end
+141,gehen, ,to go
+142,kommen, ,to come
+143,laufen, ,to run
+144,sitzen, ,to sit
+145,nehmen, ,to take
+146,geben, ,to give
+147,finden, ,to find
+148,suchen, ,to search
+149,machen, ,to make/do
+150,arbeiten, ,to work
+151,helfen, ,to help
+152,spielen, ,to play
+153,öffnen, ,to open
+154,schließen, ,to close
+155,leben, ,to live
+156,warten, ,to wait
+157,anziehen, ,to put on (clothes)
+158,ausziehen, ,to take off (clothes)
+159,bezahlen, ,to pay
