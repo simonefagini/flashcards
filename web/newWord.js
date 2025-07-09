@@ -10,7 +10,7 @@ function loadWords(callback) {
       const lines = data.split("\n");
       for (let i = 1; i < lines.length; i++) { // 1 to get rid of 
         const row = lines[i].split(",");
-        if (row.length === 5) {
+        if (row.length === 4) {
           words.push([row[1], row[2], row[3]]);
         }
       }
